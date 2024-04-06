@@ -1,7 +1,14 @@
 {
     "name": "healthpay",
     "description": "this is for the purpose of making the medicine industry more safe",
-    "image": "image url",
+    "image": [
+        {
+            "child_care1": "https://www.johnsonsbaby.com/sites/jbaby_us_3/files/styles/product_image/public/product-images/jns_381370033202_baby_oil_20oz_0000_1000wx1000h.jpeg",
+            "child_care2": "https://www.biobrickpharma.com/wp-content/uploads/2022/05/PIZMOL-250.jpg",
+            "child_care3": "https://m.media-amazon.com/images/I/51swuq+YNoS._AC_UF1000,1000_QL80_.jpg",
+            "child_care4": "https://onemg.gumlet.io/images/w_150,f_auto,c_fit,h_150,q_auto/2ad87b40e9fb460e8c13e4765949323b/little-s-comfy-cottonsoft-baby-pants-diaper-size-xl.jpg"
+        }
+    ],
     "attributes": [
         {
             "trait_type": "Trait Name",
