@@ -1,0 +1,15 @@
+{
+    "name": "healthpay",
+    "description": "this is for the purpose of making the medicine industry more safe",
+    "image": "image url",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
